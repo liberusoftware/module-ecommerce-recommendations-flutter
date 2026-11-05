@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-recommendations-flutter",
+  "capabilityKey": "planned:ecommerce:recommendations",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_recommendations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/recommendations.md",
+  "presentationPlan": "projects/ecommerce/flutter/recommendations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
